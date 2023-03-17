@@ -1,0 +1,15 @@
+{
+    "name": "star/laravel_relationship",
+    "autoload": {
+        "psr-4": {
+            "Star\\LaravelRelationship\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yagnik72",
+            "email": "yagnikpadaliya72@gmail.com"
+        }
+    ],
+    "require": {}
+}
